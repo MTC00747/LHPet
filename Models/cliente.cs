@@ -19,6 +19,7 @@ namespace LHPet.Model
         [Column("Email")]
         [Display(Name = "Email")]
         public string Email { get; set; }
+        
 
         [Column("Paciente")]
         [Display(Name = "Paciente")]
