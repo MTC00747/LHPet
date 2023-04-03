@@ -14,16 +14,16 @@ namespace LHPet.Model
 
         [Column("Nome")]
         [Display(Name = "Nome")]
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
 
         [Column("Email")]
         [Display(Name = "Email")]
-        public string Email { get; set; }
+        public string? Email { get; set; }
         
 
         [Column("Paciente")]
         [Display(Name = "Paciente")]
-        public string Paciente { get; set;}
+        public string? Paciente { get; set;}
     }
 
 }

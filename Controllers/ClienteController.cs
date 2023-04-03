@@ -12,9 +12,9 @@ namespace LHPet.Controllers
 {
     public class ClienteController : Controller
     {
-        private readonly Contexto _context;
+        private readonly Context _context;
 
-        public ClienteController(Contexto context)
+        public ClienteController(Context context)
         {
             _context = context;
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rosinei Cavalcanti\\LHPet\\LHPet.csproj": {}
+    "C:\\Users\\Rosinei Cavalcanti\\OneDrive\\Área de Trabalho\\LHPet\\LHPet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rosinei Cavalcanti\\LHPet\\LHPet.csproj": {
+    "C:\\Users\\Rosinei Cavalcanti\\OneDrive\\Área de Trabalho\\LHPet\\LHPet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rosinei Cavalcanti\\LHPet\\LHPet.csproj",
+        "projectUniqueName": "C:\\Users\\Rosinei Cavalcanti\\OneDrive\\Área de Trabalho\\LHPet\\LHPet.csproj",
         "projectName": "LHPet",
-        "projectPath": "C:\\Users\\Rosinei Cavalcanti\\LHPet\\LHPet.csproj",
+        "projectPath": "C:\\Users\\Rosinei Cavalcanti\\OneDrive\\Área de Trabalho\\LHPet\\LHPet.csproj",
         "packagesPath": "C:\\Users\\Rosinei Cavalcanti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rosinei Cavalcanti\\LHPet\\obj\\",
+        "outputPath": "C:\\Users\\Rosinei Cavalcanti\\OneDrive\\Área de Trabalho\\LHPet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
             "Com.H.EF.SqlServer": {
               "target": "Package",
               "version": "[0.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
